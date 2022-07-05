@@ -1,0 +1,64 @@
+{
+   "plus_code" : {
+      "compound_code" : "PCGX+J64 Nouméa, New Caledonia",
+      "global_code" : "5V98PCGX+J64"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PCGX+J64",
+               "short_name" : "PCGX+J64",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Quartier Latin",
+               "short_name" : "Quartier Latin",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nouméa",
+               "short_name" : "Nouméa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Province Sud",
+               "short_name" : "Province Sud",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Caledonia",
+               "short_name" : "NC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98800",
+               "short_name" : "98800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PCGX+J64, Nouméa 98800, New Caledonia",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.2734912,
+               "lng" : 166.4480887
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.2721422197085,
+                  "lng" : 166.4494376802915
+               },
+               "southwest" : {
+                  "lat" : -22.2748401802915,
+                  "lng" : 166.4467397197085
+               }
+            }
+         },
+         "place_id" : "ChIJ53YjUanjJ2wRqmJPhYYX5Ag",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+    ],
+    "status" : "OK"
+ }
+ 
